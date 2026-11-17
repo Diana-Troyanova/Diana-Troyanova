@@ -20,4 +20,4 @@
 
 **Технологии:** HTML, CSS, JavaScript, SVG; Python для локального запуска и генерации региональных страниц.
 
-[Посмотреть код и инструкцию запуска](https://github.com/Diana-Troyanova/stroylab-expert)
+[Открыть сайт для просмотра](https://stroylabexpert-maket-b74c.plumhumor2.chatgpt.site) · [Посмотреть код](https://github.com/Diana-Troyanova/stroylab-expert)
