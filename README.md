@@ -25,15 +25,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
-### Проекты
+### ✦ Проекты
 
 **[MyNissan](https://github.com/Diana-Troyanova/mynissan)**  
+
 Веб-приложение для Nissan Leaf и Nissan Ariya: интерактивные 3D-модели, показатели батареи, планирование поездок и журнал обслуживания. Для знакомства с интерфейсом доступен демонстрационный режим.  
+
 **Стек:** Figma, HTML, CSS, JavaScript, Three.js, WebGL, localStorage.  
 [Открыть приложение](https://diana-troyanova.github.io/mynissan/)
 
 **[СтройЛабЭксперт](https://github.com/Diana-Troyanova/stroylab-expert)**  
+
 Многостраничный сайт строительной лаборатории с каталогом услуг, инженерным справочником и калькуляторами: уплотнение грунта, масса арматуры и объём бетона. Проект находится в разработке.  
+
 **Стек:** Figma, HTML, CSS, JavaScript, SVG.  
 [Открыть сайт для просмотра](https://stroylabexpert-maket-b74c.plumhumor2.chatgpt.site)
 
