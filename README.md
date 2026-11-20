@@ -35,7 +35,8 @@
 
 [Открыть приложение](https://diana-troyanova.github.io/mynissan/)
 
-**[СтройЛабЭксперт](https://github.com/Diana-Troyanova/stroylab-expert)**  
+
+##**[СтройЛабЭксперт](https://github.com/Diana-Troyanova/stroylab-expert)**  
 
 Многостраничный сайт строительной лаборатории с каталогом услуг, инженерным справочником и калькуляторами: уплотнение грунта, масса арматуры и объём бетона. Проект находится в разработке.  
 
