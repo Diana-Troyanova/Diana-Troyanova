@@ -25,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
-### ✦ Проекты
+### ✦ Проекты:
 
 **[MyNissan](https://github.com/Diana-Troyanova/mynissan)**  
 
